@@ -1,13 +1,13 @@
 # Meu Primeiro PR
 
-Este repositorio e um espaco de pratica para aprender o fluxo de Pull Requests no GitHub.
+Este repositório é um espaço de prática para aprender o fluxo de Pull Requests no GitHub.
 
 ## Como contribuir
 
-1. Faca um fork do repositorio
-2. Crie uma branch com sua alteracao
+1. Faça um fork do repositório
+2. Crie uma branch com sua alteração
 3. Abra um Pull Request
 
 ## Sobre este projeto
 
-Este projeto foi criado para demonstar o fluxo basico de contribuicao no GitHub.
+Este projeto foi criado para demonstrar o fluxo básico de contribuição no GitHub.
